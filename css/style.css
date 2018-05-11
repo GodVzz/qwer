@@ -1,0 +1,112 @@
+@charset "utf-8";
+/* CSS Document */
+
+.box .hard{
+	height:3.2rem;
+	background-color:#E78866;
+	position:relative;
+	box-shadow:0px 4px 0px rgba(0, 0, 0, 0.3);
+	}
+.hard .logo{
+	position:absolute;
+	left:6.075rem;
+	bottom:0.95rem;}	
+.hard span{
+	position:absolute;
+	color:#fff;
+	font-size:0.9rem;
+	left:0.625rem;
+	top:1rem;}
+.hard span i{
+	display:inline-block;
+	font-size:0.35rem;
+	height:0.75rem;
+	width:0.75rem;
+	line-height:0.75rem;
+	text-align:center;
+	color:black;
+	margin-left:-0.45rem;
+	background-color:#FADB9B;
+	border-radius:3px;}	
+.xia{
+	background-image:url(../img/touxia.gif);
+	height:4.175rem;
+	box-shadow:0px 4px 0px rgba(0, 0, 0, 0.3);}
+.xia img{
+	 height:2.175rem;
+	width:2.175rem;
+	border-radius:50%;
+	border:#fff 4px solid;
+	margin-left:0.55rem;
+	margin-top:1.425rem;}
+.xia p{
+	color:#fff;
+	font-size:0.4rem;
+	margin-left:3.425rem;
+	margin-top:-1.85rem;}
+.xia span{
+	color:#85D2C5;
+	font-size:0.45rem;
+	margin-left:3.45rem;
+	margin-top:0.9rem;}
+.xia span i{
+	font-size:0.3rem;
+	color:#A49F99;}					
+.xia h2{
+	 margin-left:13.425rem;
+	margin-top:-0.9rem;
+	font-size:0.45rem;
+	color:#85D2C5;}
+.xia h2 i{
+	font-size:0.3rem;
+	color:#A49F99;}
+.xia2{
+	box-shadow:0px 4px 0px rgba(0, 0, 0, 0.3);
+	margin-top:0.5rem;}			
+.xia2 .left{
+	width:13.35rem;
+	height:10.5rem;
+	background:url(../img/xiaxia.gif);}
+.xia2 .left img{
+	 height:2.175rem;
+	width:2.175rem;
+	border-radius:50%;
+	border:#fff 4px solid;
+	margin-top:7.75rem;
+	margin-left:0.55rem;}		
+.xia2 .left p{
+	font-weight:bold;
+	color:#fff;
+	font-size:0.45rem;
+	margin-left:3.425rem;
+	margin-top:-1.85rem;}	
+.xia2 .left span{
+	 margin-left:3.425rem;
+	margin-top:-0.925rem;
+	font-size:0.45rem;
+	color:#85D2C5;}	
+.xia2 .left span i{
+	font-size:0.3rem;
+	color:#A49F99;}
+.xia2 .right ul{
+	margin-top:0.75rem;}
+.xia2 .right ul li{
+	margin-top:1.5rem;
+	font-size:0.85rem;}
+.xia2 .right span{
+	display:inline-block;
+	margin-bottom:1.05rem;}				
+.xia3{
+	margin-top:20px;}
+.xia4{
+	height:102px;
+	background-color:#685F55;}
+.xia4 ul li{
+	height:102px;
+	line-height:102px;
+	width:25%;
+	text-align:center;
+	float:left;
+	color:#776E65;}
+.xia4 ul li:hover{
+	color:#F17E56;}				
